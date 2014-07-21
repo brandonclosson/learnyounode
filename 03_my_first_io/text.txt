@@ -1,0 +1,5 @@
+This is a text
+file with a couple
+of different lines
+I would like
+to count them
